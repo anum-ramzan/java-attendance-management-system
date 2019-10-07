@@ -18,18 +18,6 @@ Another purpose for developing this software is to generate the custom report at
 
 Another reason for developing this project is to enhance our learning skill and applying the application in the required area.
 
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
 **CUSTOMER REQUIREMENTS**
 
 The proposed system should be user friendly, the retrieval and storing of data should be fast and data should be maintained efficiently. Moreover the graphical user interface should be provided in the proposed system, which provides user to deal with the system very easily. The proposed system requires very less paper work. All the data is feted into the computer immediately and reports can be generated through computers. Moreover work become very easy because there is no need to keep data on papers.
@@ -70,22 +58,22 @@ Make the required database table for Attendance frame in the systematic order wi
 
 # Working of Present System
 
-#  In the present system all work is done on paper. The whole session attendance is stored in register and at the end of the session the reports are generated. We are not interested in generating report in the middle of the session or as per the requirement because it takes more time in calculation. At the end of session the students who don&#39;t have 75% attendance get a notice.
+In the present system all work is done on paper. The whole session attendance is stored in register and at the end of the session the reports are generated. We are not interested in generating report in the middle of the session or as per the requirement because it takes more time in calculation. At the end of session the students who don&#39;t have 75% attendance get a notice.
 
 # DISADVANTAGES OF PRESENT WORKING SYSTEM
 
--Not User Friendly: The existing system is not user friendly because the retrieval of data is very slow and data is not maintained efficiently.
--Difficulty in report generating: We require more calculations to generate the report so it is generated at the end of the session. And the student not get a single chance to improve their attendance
--Manual control: All calculations to generate report is done manually so there is greater chance of errors.
--Lots of paperwork: Existing system requires lot of paper work. Loss of even a single register/record led to difficult situation because all the papers are needed to generate the reports.
--Time consuming: Every work is done manually so we cannot generate report in the middle of the session or as per the requirement because it is very time consuming.
+1. Not User Friendly: The existing system is not user friendly because the retrieval of data is very slow and data is not maintained efficiently.
+2. Difficulty in report generating: We require more calculations to generate the report so it is generated at the end of the session. And the student not get a single chance to improve their attendance
+3. Manual control: All calculations to generate report is done manually so there is greater chance of errors.
+4. Lots of paperwork: Existing system requires lot of paper work. Loss of even a single register/record led to difficult situation because all the papers are needed to generate the reports.
+5. Time consuming: Every work is done manually so we cannot generate report in the middle of the session or as per the requirement because it is very time consuming.
 
 # CHAREACTERSTIC OF THE PROPOSED SYSTEM
 
--User Friendly: The proposed system is user friendly because the retrieval and storing of data is fast and data is maintained efficiently. Moreover the graphical user interface is provided in the proposed system, which provides user to deal with the system very easily.
--Reports are easily generated: reports can be easily generated in the proposed system so user can generate the report as per the requirement (monthly) or in the middle of the session. User can give the notice to the students so he/she become regular.
--Very less paper work: The proposed system requires very less paper work. All the data is feted into the computer immediately and reports can be generated through computers. Moreover work becomes very easy because there is no need to keep data on papers.
--Computer operator control: Computer operator control will be there so no chance of errors. Moreover storing and retrieving of information is easy. So work can be done speedily and in time.
+1. User Friendly: The proposed system is user friendly because the retrieval and storing of data is fast and data is maintained efficiently. Moreover the graphical user interface is provided in the proposed system, which provides user to deal with the system very easily.
+2. Reports are easily generated: reports can be easily generated in the proposed system so user can generate the report as per the requirement (monthly) or in the middle of the session. User can give the notice to the students so he/she become regular.
+3. Very less paper work: The proposed system requires very less paper work. All the data is feted into the computer immediately and reports can be generated through computers. Moreover work becomes very easy because there is no need to keep data on papers.
+4. Computer operator control: Computer operator control will be there so no chance of errors. Moreover storing and retrieving of information is easy. So work can be done speedily and in time.
 
 # HARDWARE/ SOFTWARE REQUIREMENTS
 
